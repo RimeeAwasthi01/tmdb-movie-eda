@@ -120,7 +120,7 @@ A correlation heatmap was used to analyze relationships between numerical movie 
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/tmdb-movie-eda.git
+git clone https://github.com/RimeeAwasthi01/tmdb-movie-eda.git
 ```
 
 ---
